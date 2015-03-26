@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Lufty}
+\enquote{Saving fuel with new software,}
+  \url{http://www.lufthansagroup.com/en/press/news-releases/singleview/archive/2013/september/25/article/2615.html},
+  Accessed: 2013-09-25.
+
+\bibitem{TransportCanada}
+\enquote{Canada's Action Plan to Reduce Greenhouse Gas Emissions from
+  Aviation,}
+  \url{https://www.tc.gc.ca/media/documents/policy/AviationGHGActionPan_Eng.pdf},
+  Accessed: 2013-09-25.
+
+\bibitem{Park:2015}
+Park, S.~G. and Clarke, J.~P., \enquote{Optimal Control Based Vertical
+  Trajectory Determination for Continuous Descent Arrival Procedures,} {\em
+  Journal of Aircraft\/}, Vol.~01/2015, 2015, pp.~1--12.
+
+\bibitem{Cao:2013}
+Cao, Y., Laurentis, D., and Sun, D., \enquote{Benefit and Trade-Off Analysis of
+  Continuous Descent Approach in Normal Traffic Conditions,} {\em
+  Transportation and Research Record\/}, Vol.~2325, 2013, pp.~22--33.
+
+\bibitem{Jin:2013}
+Jin, L., Cao, Y., and Sun, D., \enquote{Investigation of Potential Fuel Savings
+  Due to Continuous-Descent Approach,} {\em Journal of Aircraft\/}, Vol.~50,
+  2013, pp.~807--816.
+
+\bibitem{Murca:2015}
+Mur\c{c}a, M. C.~R. and M{\"u}ller, C., \enquote{Control-based optimization
+  approach for aircraft scheduling in a terminal area with alternative arrival
+  routes,} {\em Journal of Transportation Research Part E\/}, Vol.~73, 2015,
+  pp.~96--113.
+
+\bibitem{Takeichi:2010}
+Takeichi, N. and Inami, D., \enquote{Arrival-Time Controllability of Tailored
+  Arrival Subjected to Flight-Path Constraints,} {\em Journal of Aircraft\/},
+  Vol.~47, 2010, pp.~2021--2029.
+
+\bibitem{Enis:2010}
+Turgut, T.~E., Usanmaz, O., Canarslanlar, A.~O., and Sahin, O., \enquote{Energy
+  and emission assessments of continuous descent approach,} {\em Aircraft
+  Engineering and Aerospace Technology\/}, Vol.~82, 2010, pp.~32--38.
+
+\bibitem{Cao:2011}
+Cao, Y., Rathinam, S., and Sun, D., \enquote{A Rescheduling Method for
+  Conflict-free Continuous Descent Approach,} Paper AIAA 2011-6218, AIAA
+  Guidance, Navigation and Control Conference, August 2011.
+
+\bibitem{Copp:2007}
+Coppenbarger, R.~A., Mead, R.~W., and Sweet, D.~N., \enquote{Field Evaluation
+  of the Tailored Arrivals Concept for Datalink-Enabled Continuous Descent
+  Approach,} Paper AIAA 2007-7778, AIAA Aviation Technology, Integration and
+  Operations Conference, September 2007.
+
+\bibitem{Rob:2010}
+III, J. E.~R. and Kamgarpour, M., \enquote{Benefits of Continuous Descent
+  Operations in High-Density Terminal Airspace Under Scheduling Constraints,}
+  Paper AIAA 2010-9115, AIAA Aviation Technology, Integration and Operations
+  Conference, September 2010.
+
+\bibitem{Niko:2012}
+Nikoleris, T., Chatterji, G.~B., and Coppenbarger, R.~A., \enquote{Comparison
+  of Fuel Consumption of Descent Trajectories under Arrival Metering,} Paper
+  AIAA 2012-4818, AIAA Guidance, Navigation and Control Conference, August
+  2012.
+
+\bibitem{Hayashi:2011}
+Hayashi, M., Coppenbarger, R.~A., Sweet, D., Nagle, G., and Dyer, G.~L.,
+  \enquote{Impacts of Intermediate Cruise-Altitude Advisory for Conflict-Free
+  Continuous-Descent Arrival,} Paper AIAA 2011-6216, AIAA Guidance, Navigation
+  and Control Conference, August 2011.
+
+\bibitem{Copp:2010b}
+Coppenbarger, R., Dyer, G., Hayashi, M., Lanier, R., Stell, L., and Sweer, D.,
+  \enquote{DEVELOPMENT AND TESTING OF AUTOMATION FOR EFFICIENT ARRIVALS IN
+  CONSTRAINED AIRSPACE,} Paper, International Congress of the Aeronautical
+  Sciences, 2010.
+
+\bibitem{Alam:2010}
+Alam, S., Nguyen, M.~H., Abass, H.~A., Lokan, C., Ellejimi, M., and Kirby, S.,
+  \enquote{A DYNAMIC CONTINUOUS DESCENT APPROACH METHODOLOGY FOR LOW NOISE AND
+  EMISSION,} Paper 978-1-4244-6616-0, IEEE Digital Avionics Systems Conference,
+  October 2010.
+
+\end{thebibliography}
