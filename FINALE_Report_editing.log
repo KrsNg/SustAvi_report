@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.12.10)  26 MAR 2015 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.12.10)  26 MAR 2015 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,11 +469,7 @@ File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/eulervm/eulervm.sty
 Package: eulervm 2005/01/11 v4.0 (WaS)
 )
-(./FINALE_Report_editing.aux
-
-LaTeX Warning: Label `fig:Compare' multiply defined.
-
-)
+(./FINALE_Report_editing.aux)
 \openout1 = `FINALE_Report_editing.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -490,7 +486,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 22.
@@ -653,57 +650,59 @@ Package pdftex.def Info: figures/KSFO_CDA.png used on input line 84.
 (pdftex.def)             Requested size: 211.38832pt x 158.53722pt.
 
 [3 <./figures/Tailored_Arrivals_YMML.jpg> <./figures/KSFO_CDA.png>] [4]
+
+LaTeX Warning: Reference `IST' on page 5 undefined on input line 120.
+
 <figures/IST_terminal_area.png, id=119, 751.80875pt x 343.2825pt>
 File: figures/IST_terminal_area.png Graphic file (type png)
 
 <use figures/IST_terminal_area.png>
-Package pdftex.def Info: figures/IST_terminal_area.png used on input line 126.
+Package pdftex.def Info: figures/IST_terminal_area.png used on input line 124.
 (pdftex.def)             Requested size: 462.95042pt x 211.38832pt.
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
- [5 <./figures/IST_terminal_area.png>]
-<figures/reschedule.jpg, id=129, 1283.79625pt x 677.53125pt>
+
+<figures/reschedule.jpg, id=122, 1283.79625pt x 677.53125pt>
 File: figures/reschedule.jpg Graphic file (type jpg)
 
 <use figures/reschedule.jpg>
-Package pdftex.def Info: figures/reschedule.jpg used on input line 143.
+Package pdftex.def Info: figures/reschedule.jpg used on input line 135.
 (pdftex.def)             Requested size: 356.0324pt x 187.89914pt.
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 169.
-
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [6 <./figures/reschedule.jpg>]
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
- [7] <figures/Comparison.jpg, id=164, 819.06pt x 525.965pt>
-File: figures/Comparison.jpg Graphic file (type jpg)
-
-<use figures/Comparison.jpg>
-Package pdftex.def Info: figures/Comparison.jpg used on input line 201.
-(pdftex.def)             Requested size: 292.61176pt x 187.89914pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] <figures/EDA.jpg, id=173, 641.39626pt x 482.80376pt>
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+[5 <./figures/IST_terminal_area.png>] [6 <./figures/reschedule.jpg>]
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+ [7]
+<figures/Comparison.jpg, id=166, 819.06pt x 525.965pt>
+File: figures/Comparison.jpg Graphic file (type jpg)
+
+<use figures/Comparison.jpg>
+Package pdftex.def Info: figures/Comparison.jpg used on input line 186.
+(pdftex.def)             Requested size: 292.61176pt x 187.89914pt.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 193.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [8 <./figures/Comparison.jpg>] <figures/EDA.jpg, id=174, 641.39626pt x 482.80
+376pt>
 File: figures/EDA.jpg Graphic file (type jpg)
- <use figures/EDA.jpg>
-Package pdftex.def Info: figures/EDA.jpg used on input line 219.
+
+<use figures/EDA.jpg>
+Package pdftex.def Info: figures/EDA.jpg used on input line 200.
 (pdftex.def)             Requested size: 281.85587pt x 212.1691pt.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-
-[9 <./figures/Comparison.jpg> <./figures/EDA.jpg>]
+ [9 <./figures/EDA.jpg>]
 Missing character: There is no Ô in font ptmr7t!
 Missing character: There is no ¨ in font ptmr7t!
 Missing character: There is no Ç in font ptmr7t!
@@ -712,7 +711,7 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
  [11] [12]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 379.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 358.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
@@ -733,27 +732,27 @@ r/m/n/9 http : / / www . airways . co . nz / documents /
 ) 
 AED: lastpage setting LastPage
 [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 387.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 387.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
  (./FINALE_Report_editing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 387.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 387.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 366.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 366.
 Package rerunfilecheck Info: File `FINALE_Report_editing.out' has not changed.
 (rerunfilecheck)             Checksum: 752004D6916D5EA14F8C29F61D2AAC85;589.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 387.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 366.
  ) 
 Here is how much of TeX's memory you used:
- 8088 strings out of 493109
- 117568 string characters out of 6135003
- 214199 words of memory out of 5000000
- 11326 multiletter control sequences out of 15000+600000
+ 8090 strings out of 493109
+ 117582 string characters out of 6135003
+ 213366 words of memory out of 5000000
+ 11328 multiletter control sequences out of 15000+600000
  42316 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,13n,45p,1629b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,13n,45p,1399b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/t
@@ -763,10 +762,10 @@ l/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on FINALE_Report_editing.pdf (14 pages, 2111429 bytes).
+Output written on FINALE_Report_editing.pdf (14 pages, 2111380 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
+ 276 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
  59 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
